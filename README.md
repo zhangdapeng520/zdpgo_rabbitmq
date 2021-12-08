@@ -1,0 +1,2 @@
+# zdpgo_rabbitmq
+简化Golang操作RabbitMQ的组件库
